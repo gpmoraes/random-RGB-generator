@@ -1,6 +1,6 @@
 "use strict";
 /**
- * This simple function randonly generates  
+ * This simple function randomly generates  
  * the values for the colors Red, Green and Blue.
  * And sets the values in the DOM.
  */

@@ -1,0 +1,44 @@
+#bc {
+  display: flex;
+  border-radius: 15px;
+  height: auto;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin: 10px;
+  padding: 10px;
+  background-color: antiquewhite;
+}
+#generate {
+  margin: 16px;
+  border-radius: 15px;
+  background-color: white;
+  height: 35px;
+  width: 300px;
+  border-width: 1px;
+}
+#generate:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+#generate:active {
+  color: white;
+}
+
+#infoDec {
+  font-weight: bold;
+  text-align: center;
+  min-width: 136px;
+  border-color: black;
+  border-radius: 15px;
+  padding: 7px;
+}
+#infoHex {
+  font-weight: bold;
+  text-align: center;
+  min-width: 136px;
+  border-color: black;
+  border-radius: 15px;
+  padding: 7px;
+}
